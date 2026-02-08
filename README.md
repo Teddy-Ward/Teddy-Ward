@@ -1,45 +1,63 @@
-# Ted Ward - Full Stack Web Developer
+# Ted Ward | Senior Full-Stack Engineer and AI Architect
 
-**About Me**
+Architect turned Software Engineer specialising in Serverless Ecosystems, Enterprise Design Systems and Agentic AI. Currently engineering at Finova, where I develop high-performance SaaS solutions and pioneer internal AI integration.
 
-I'm an architect-turned-developer with a passion for combining design, technology, and an entrepreneurial mindset to build engaging web experiences. I have a strong foundation in the MERN stack (MongoDB, Express, React, Node.js), with working proficiency in Typescript, Next.js, and AWS.
+[Portfolio (tedward.net)](https://www.tedward.net) | [LinkedIn](https://www.linkedin.com/in/ted-ward-929132251/)
 
-**Key Skills**
+---
 
-* **Languages:** JavaScript, Typescript, HTML, CSS
-* **Frameworks:** React, Next.js, Node.js, Express, vuejs, Nuxt,
-* **Databases:** MongoDB,  Firestore, PostgreSQL
-* **Styling:** Tailwind CSS, Material-UI (MUI)
-* **Version Control:** Git, GitHub
-* **Cloud:** Basic knowledge of AWS and GCP
-* **Project Management:** Agile/Scrum, Jira, Confluence
-* **Design:** Figma, Eye for UX/UI
+### High-Impact Initiatives
 
-**Past Projects**
+* **OpenSwarmOS(Founding Engineer):** Contributing to the development of modular agentic frameworks. Focusing on MCP (Model Context Protocol) integrations and building stateless RESTful operations for scalable AI deployments.
+* **Workplace AI Integration:** Developed several POCs for internal AI tools, utilising RAG (Retrieval-Augmented Generation) to train future engineers and automate system knowledge transfer.
+* **Vyzo (Owner & Engineer):** Architected an AI-driven video co-pilot using multimodal models to identify narrative arcs and automate social media content creation.
 
-* **E-commerce Platform:** Developed a full-featured e-commerce platform demonstrating proficiency in front-end and back-end technologies.
-* **Social Media App:** Built a social media application, honing skills in creating scalable and robust applications.
-* **Redesign and Recode:** Update an old website to modern design using React.
+---
 
-**Current Projects**
-* **TiiQu Web Application (Current Role):** Lead front-end development, code review, onboarding materials creation, and Vercel administration in a team environment.
-* **Unreleased Game:** Solo project, creating a small game where a team goes into battle to succeed in a number of missions, character attributes make alter the outcomes and health must be looked after. Currently in final styling before first release.
+### Technical Toolbox
 
-**Experience**
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Angular, LitJS, HTMX, Next.js, Vue.js, Tailwind, MUI |
+| **AI and Agents** | OpenSwarm, RAG Pipelines, Prompt Engineering, Gemini/OpenAI, Vector DBs |
+| **Backend/Cloud** | Serverless Architecture, Node.js, Python (FastAPI), AWS, GCP, Vercel |
+| **Engineering** | CI/CD, Unit/Integration/E2E Testing, UX and Product Strategy |
 
-* **Front End Developer, TiiQu:** 
-   * Leading front-end development using Next.js, Typescript, Tailwind, MUI, and Chart.js.
-   * Creating onboarding and training materials.
-   * Managing version control (Vercel) and code review processes.
-* **Business Owner:** Cultivated invaluable communication, time management, and project planning skills, ensuring a strong foundation for teamwork and deadline-driven development.
+---
 
-**Architectural Background**
+### Professional Experience
 
-My previous career in architecture infused a strong design sense and a focus on creating functional, user-centric experiences. I channel this into intuitive UI/UX development.
+**Engineer | Finova**
+*Full Stack, Serverless, Design Systems*
+* **SaaS Engineering:** Scaling a major serverless SaaS product, ensuring high availability and robust performance.
+* **Design System Leadership:** Contributing to a massive, framework-agnostic Design System utilised across React, Angular and LitJS.
+* **Full-Cycle Ownership:** Bridging the gap between UX, Product and Engineering while managing CI/CD pipelines and comprehensive testing (Unit, Integration, E2E).
 
-**Contact**
+**Lead Frontend Developer | TiiQu**
+*Next.js, TypeScript, Tailwind, Vercel*
+* Directed frontend architecture and established code review standards.
+* Managed Vercel administration and built complex data visualisation dashboards using Chart.js.
 
-* **LinkedIn:** [Here](https://www.linkedin.com/in/ted-ward-929132251/)
-* **Portfolio Website:** [Here](https://tedward.net)
+---
 
-**Let's Connect!**
+### Extended Experience and Projects
+
+* **E-commerce and Social Media Platforms:** Built full-featured, scalable MERN stack applications, honing skills in MongoDB, Express and robust backend logic.
+* **Unreleased Game (Solo Project):** Developed a tactical mission-based game, focusing on complex state management and character attribute logic.
+* **Business Owner:** Previously ran a business, cultivating the communication and project planning skills required for high-stakes, deadline-driven development.
+
+---
+
+### The Architectural Edge
+
+My background in Architecture provides a unique foundation for software engineering:
+* **Systems Thinking:** I approach codebases as structural systems, prioritising modularity and durability.
+* **Spatial User Experience:** I design software with the same spatial empathy used to design buildings, focusing on intuitive user flow.
+* **Precision and Craft:** I maintain a blueprint mindset for documentation and system schemas.
+
+---
+
+### Let's Connect
+
+* **Website:** [www.tedward.net](https://www.tedward.net)
+* **Focus:** AI-integrated SaaS, Serverless architecture and the future of Design Systems.
