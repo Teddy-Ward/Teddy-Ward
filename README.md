@@ -8,7 +8,6 @@ Architect turned Software Engineer specialising in Serverless Ecosystems, Enterp
 
 ### High-Impact Initiatives
 
-* **OpenSwarmOS(Founding Engineer):** Contributing to the development of modular agentic frameworks. Focusing on MCP (Model Context Protocol) integrations and building stateless RESTful operations for scalable AI deployments.
 * **Workplace AI Integration:** Developed several POCs for internal AI tools, utilising RAG (Retrieval-Augmented Generation) to train future engineers and automate system knowledge transfer.
 * **Vyzo (Owner & Engineer):** Architected an AI-driven video co-pilot using multimodal models to identify narrative arcs and automate social media content creation.
 
