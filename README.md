@@ -1,62 +1,61 @@
-# Ted Ward | Senior Full-Stack Engineer and AI Architect
+# Ted Ward
 
-Architect turned Software Engineer specialising in Serverless Ecosystems, Enterprise Design Systems and Agentic AI. Currently engineering at Finova, where I develop high-performance SaaS solutions and pioneer internal AI integration.
+**Systems Architect | AI Substrate Engineer**
 
-[Portfolio (tedward.net)](https://www.tedward.net) | [LinkedIn](https://www.linkedin.com/in/ted-ward-929132251/)
-
----
-
-### High-Impact Initiatives
-
-* **Workplace AI Integration:** Developed several POCs for internal AI tools, utilising RAG (Retrieval-Augmented Generation) to train future engineers and automate system knowledge transfer.
-* **Vyzo (Owner & Engineer):** Architected an AI-driven video co-pilot using multimodal models to identify narrative arcs and automate social media content creation.
+Swansea, United Kingdom  
+[Portfolio](https://tedward.net) | [LinkedIn](https://www.linkedin.com/in/ted-ward-929132251/)
 
 ---
 
-### Technical Toolbox
+## AI Systems and Agentic Logic
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Angular, LitJS, HTMX, Next.js, Vue.js, Tailwind, MUI |
-| **AI and Agents** | OpenSwarm, RAG Pipelines, Prompt Engineering, Gemini/OpenAI, Vector DBs |
-| **Backend/Cloud** | Serverless Architecture, Node.js, Python (FastAPI), AWS, GCP, Vercel |
-| **Engineering** | CI/CD, Unit/Integration/E2E Testing, UX and Product Strategy |
+### Decentralised Multi-Agent Framework
 
----
+- **Neutral Bus Architecture:** Implements a neutral message bus to solve integration complexity, moving from O(N²) to O(N).
+- **Deterministic Handshakes:** Built on a feature blind substrate to mitigate prompt injection through strictly scoped protocols.
+- **Traceable Orchestration:** Integrated telemetry for 100% traceable decision paths via Datadog for regulatory compliance.
+- **Collision Detection:** Logic to identify overlapping agent goals, preventing redundant computation.
 
-### Professional Experience
+### AI Video Co-pilot
 
-**Engineer | Finova**
-*Full Stack, Serverless, Design Systems*
-* **SaaS Engineering:** Scaling a major serverless SaaS product, ensuring high availability and robust performance.
-* **Design System Leadership:** Contributing to a massive, framework-agnostic Design System utilised across React, Angular and LitJS.
-* **Full-Cycle Ownership:** Bridging the gap between UX, Product and Engineering while managing CI/CD pipelines and comprehensive testing (Unit, Integration, E2E).
-
-**Lead Frontend Developer | TiiQu**
-*Next.js, TypeScript, Tailwind, Vercel*
-* Directed frontend architecture and established code review standards.
-* Managed Vercel administration and built complex data visualisation dashboards using Chart.js.
+- **Feedback Loops:** Engineered pass through prompts for instant user validation of AI generated content.
+- **Data Flywheels:** Captures validation data as high quality training sets for proprietary model fine tuning.
+- **Narrative Logic:** Orchestrates multimodal models to identify narrative arcs and automate content creation.
 
 ---
 
-### Extended Experience and Projects
+## Technical Toolbox
 
-* **E-commerce and Social Media Platforms:** Built full-featured, scalable MERN stack applications, honing skills in MongoDB, Express and robust backend logic.
-* **Unreleased Game (Solo Project):** Developed a tactical mission-based game, focusing on complex state management and character attribute logic.
-* **Business Owner:** Previously ran a business, cultivating the communication and project planning skills required for high-stakes, deadline-driven development.
+### AI and Knowledge Engineering
+
+- **Frameworks:** OpenSwarm, Agentic Workflows, MCP (Model Context Protocol)
+- **Logic:** RAG (Retrieval Augmented Generation) pipelines, Prompt Engineering, Vector DBs
+- **Models:** Gemini, OpenAI, Claude, LiteLLM
+
+### Core Logic and Backend
+
+- **Primary Languages:** Python (FastAPI), C++, TypeScript, Node.js
+- **Legacy and Deep Tech:** Ruby on Rails, PHP, ASP, SQL, C++
+- **Database:** MongoDB, PostgreSQL, Firebase, MySQL
+
+### Frontend and Design Systems
+
+- **Frameworks:** React, Next.js, Vue.js, Angular, Lit
+- **Styling and UI:** Tailwind CSS, MUI, Bootstrap, Chart.js
+- **Methodology:** Building framework agnostic, serverless SaaS design systems
+
+### Cloud and Infrastructure
+
+- **Platforms:** AWS (Lambda, S3), GCP, Vercel
+- **IaC and DevOps:** Terraform, Buildkite, CI/CD pipelines, Serverless Architecture
+- **Security:** RBAC, OAuth, multi tenant isolation, and structural audit logging
 
 ---
 
-### The Architectural Edge
+## Engineering Principles
 
-My background in Architecture provides a unique foundation for software engineering:
-* **Systems Thinking:** I approach codebases as structural systems, prioritising modularity and durability.
-* **Spatial User Experience:** I design software with the same spatial empathy used to design buildings, focusing on intuitive user flow.
-* **Precision and Craft:** I maintain a blueprint mindset for documentation and system schemas.
-
----
-
-### Let's Connect
-
-* **Website:** [www.tedward.net](https://www.tedward.net)
-* **Focus:** AI-integrated SaaS, Serverless architecture and the future of Design Systems.
+- **Deterministic Foundations:** Specialising in building the "rails" that make probabilistic AI tools safe for deterministic enterprise logic.
+- **Codebase Indexing:** Developing RAG based systems that index architecture to act as a "Senior Developer" guide for code modification.
+- **Radical Ownership:** Experience managing every variable of a stack, from physical hardware to complex cloud state management.
+- **Strategic Velocity:** Rapid deployment of agnostic MCP substrates and full telemetry suites in 8 week delivery cycles.
+- **Enterprise Literacy:** Expert use of Jira, Confluence, and Agile/Scrum methodologies for high concurrency delivery.
